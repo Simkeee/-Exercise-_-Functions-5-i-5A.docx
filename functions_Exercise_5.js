@@ -226,6 +226,10 @@ console.log("10. Zadatak: "+ primeNumber(4));
 // 11. Check if a given string is a palindrome (spaces are ignored).
 // Input: eye | Geek | a nut for a jar of tuna
 // Output: true | false | true
+
+//KOMENTAR: "Ana voli Milovana" je palindrom. Da li mozes da modifikujes ovaj zadatak da ti vraca rezultat da ovo jeste palindrom? :)
+// P.S. Ostalo si sjajno uradio!
+
 function isPalindrome(a)
 {
     k=false;
